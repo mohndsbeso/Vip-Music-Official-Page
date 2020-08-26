@@ -1,0 +1,16 @@
+@import "nav/Header-Nav-Section1/Header-Nav-Section1";
+@import "nav/Mhrgnat-Nav-Section2/Mhrgnat-Nav-Section2";
+@import "nav/Romnsy-Nav-Section3/Mhrgnat-Nav-Section3";
+
+
+::-webkit-scrollbar
+{
+    width: 5px;
+}
+
+::-webkit-scrollbar-thumb
+{
+    background: linear-gradient(to top, #bdb9b9, #790d07);
+
+    border-radius:10px;
+}
